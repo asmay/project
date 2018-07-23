@@ -1,0 +1,146 @@
+body {
+	background-color: #290000;
+}
+.fixed{
+	position: fixed;
+	z-index:1000000;
+	top: -20px;
+	width: 110%;
+}
+.navigation{
+	margin-right: -15px;
+	margin-left: -15px;
+	margin-top: 20px;
+	background-color: #290000;
+}
+ul li{ 
+	float: left;
+	margin: 10px;
+	list-style-type: none;
+}
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+a.hover{
+	background-color: #76c38f;
+	text-decoration: none;
+	color: #ffffff
+}
+.btn{
+	background-color: #76c38f;
+	border-color: #76c38f;
+}
+.col-md-6{
+	background-color:#290000;
+	margin: 50px;
+	color: #ffffff ;
+	padding-top: 100px;
+	padding-bottom: 160px
+}
+.circle{
+	width:380px;
+	height:380px;
+	margin-top:100px;
+	padding-bottom:50px
+}
+.col-md-31{
+	width: 20% !important;
+	color: #000000;
+	background-color: #ffffff;
+	border-radius: 7px;
+	text-align: center;
+	margin: 27px;
+	margin-top: 120px;
+	margin-bottom: 60px
+	
+	}
+.col-ma-3 .hover{
+	background-color: #76c38f
+}
+.col-md-33{
+	width: 20% !important;
+	color: #ffffff;
+	border-radius: 7px;
+	text-align: left;
+	margin: 5px;
+	margin-top: 40px;
+
+	}
+.line{
+	border: 1px;
+	box-shadow: 0 5px 5px -5px #333;
+}
+.green{
+	color: #76c38f;
+}
+.copy{
+	background-color: #2b2b2b;
+	color: #ffffff;
+	height: 20px;
+	position: fixed;
+    bottom: 0px;
+    width: 110%;
+    left: 0px
+}
+.footer{
+	background-color: #2b2b2b !important;
+	color:#ffffff;
+	text-align: left;
+	padding-left: 200px;
+
+    }
+.form{
+  margin-top: 30px;
+  text-rendering: optimizeLegibility;
+}
+input[type=text] ,textarea{
+    background-color: #222222;
+    color: #aa9f9f;
+    border-color: transparent;
+    border-radius: 3px;
+    margin: 3px;
+}
+input[type=submit] {
+	margin-top: 20px;
+	background-color: #76c38f;
+	color: #ffffff;
+	background-color: #76c38f;
+	border-radius: 10px
+}
+h6{
+	
+	padding-bottom: 15px;
+	margin-left: 50px;
+
+}
+.fullWidth{
+	 position: absolute;
+     width: 100%;
+     margin-left: -120px
+     
+}
+.col-md-4{
+	margin-bottom: 20px;
+}
+.picsRow1{
+	position: absolute;
+	width: 100%;
+	background-color: #660000;
+	bottom: -1200px;
+	left: 0px
+}
+.picsRow2{
+	position: absolute;
+	width: 100%;
+	background-color: #660000;
+	bottom: -1300px;
+	left: 0px
+}
+.full{
+	background-color: #660000;
+	width: 1348px; 
+  	margin-left: -120px ;
+	padding-left: 50px;
+}
+
